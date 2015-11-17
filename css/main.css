@@ -1,0 +1,113 @@
+img {
+	max-width: 100%;
+	height: auto;
+}
+
+
+.align-left {
+	float: left;
+	margin-right: 1em;
+	margin-bottom: 1em;
+}
+
+
+.hero {
+}
+
+.bar-photo {
+	display: block;
+	width:100%;
+}
+
+body {
+	background-color: #FBB03B;
+}
+
+.logo {
+	margin: 0 auto;
+	width:100%;
+	padding: 10px;
+	background-color:#FDD79C;
+}
+
+.nav {
+	background-color: #FFFFFF;
+}
+
+.chris-becker {
+	width:20%;
+	height:20%;
+	float: left;
+	padding: 40px;
+	margin-left: 330px;
+}
+
+.jason-lear {
+	width:20%;
+	height:20%;
+	float: left;
+	padding: 40px;
+}
+
+.Angie-Lee {
+	width:20%;
+	height:20%;
+	padding: 40px;
+}
+
+.chef-title {
+	aling: center;
+}
+
+.about-restaurant {
+	width: 100%;
+	background-color: #FFFFFF;
+	padding:30px;
+}
+
+
+
+.menu-section-title {
+	max-width: 800px;
+	margin-left: 0 auto;
+	list-style: none;
+	margin-left: 330px;
+
+}
+
+.menu-item + .menu-item {
+	margin-top: 15px;
+}
+
+.menu-item-title {
+	font-size: 16px;
+	font-weight: bold;
+	text-transform: uppercase;
+	letter-spacing: .1em;
+	color: #000;
+	margin-left:330px;
+}
+
+.menu-item-desc,
+.menu-item-pairing {
+	font-style: italic;
+	text-transform: lowercase;
+}
+
+.menu-item-desc {
+	font-size: 12px;
+	margin-left:330px;
+}
+
+.menu-item-pairing {
+	font-size: 10px;
+	font-weight: bold;
+	margin-left: 330px;
+	color: #42A8A8;
+}
+
+.pairing-type {
+	font-style: normal;
+	text-transform: uppercase;
+	letter-spacing: .1em;
+}
